@@ -1,4 +1,5 @@
 div {
+  display: inline;
   background-color: lightblue;
   color: white;
   font-family: Georgia, Times, serif;
