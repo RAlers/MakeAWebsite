@@ -1,9 +1,16 @@
+#"Title" {
+  display: block;
+  background-color: black;
+  color: white;
+}
 div {
   display: inline;
   background-color: lightblue;
   color: white;
   font-family: Georgia, Times, serif;
-  padding: 5%;
+  padding: 20%;
+  margin:0px;
+  font-size:15px;;
 }
 
 h1 {
